@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="idenfyMainColorV2">#61895F</color>
+    <color name="idenfyMainDarkerColorV2">#ACC9AA</color>
+    <color name="idenfySecondColorV2">#F2191D17</color>
+    <color name="idenfyMainColor50percentV2">#8061895F</color>
+    <color name="idenfySecondColor6percentV2">#0F191D17</color>
+    <color name="idenfySecondColor20percentV2">#33191D17</color>
+    <color name="idenfySecondColor50percentV2">#80191D17</color>
+    <color name="idenfySecondColor80percentV2">#CC191D17</color>
+    <color name="idenfyStepSuccessColorV2">@color/idenfyMainDarkerColorV2</color>
+    <color name="idenfyStepErrorColorV2">#D32F2F</color>
+    <color name="idenfyGradientAccentV2">#ACC9AA</color>
+
+    <color name="idenfyCountrySelectionViewCountrySearchBarBackgroundColor">@color/idenfyBackgroundColorV2</color>
+    <color name="idenfyCountrySelectionViewCountryRecyclerViewItemBackgroundColor">@color/idenfyBackgroundColorV2</color>
+    <color name="idenfyDocumentSelectionViewRecyclerViewItemBackgroundColor">@color/idenfyBackgroundColorV2</color>
+    <color name="idenfyDefaultAppBarBackgroundColor">@color/idenfyBackgroundColorV2</color>
+    <color name="idenfyNoBackButtonAppBarBackgroundColor">@color/idenfyBackgroundColorV2</color>
+    <color name="idenfyPhotoResultDetailsCardBackgroundColorV2">@color/idenfyMainColorV2</color>
+    <color name="idenfyIdentificationResultsViewDocumentStepLoadingStepDividerSuccessColor">@color/idenfyMainDarkerColorV2</color>
+    <color name="idenfyDocumentPhotoResultViewDescriptionTextColor">@color/idenfyWhite</color>
+    <color name="idenfyDocumentPhotoResultViewTitleTextColor">@color/idenfyWhite</color>
+    <color name="facetec_default_foreground">@color/idenfyBackgroundColorV2</color>
+
+</resources>

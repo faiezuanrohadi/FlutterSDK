@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="LoadingSpinner">
+        <item name="android:indeterminateOnly">true</item>
+        <item name="android:maxWidth">200dip</item>
+        <item name="android:maxHeight">200dip</item>
+        <item name="android:tint">@color/idenfyMainColorV2</item>
+    </style>
+
+    <style name="LoadingSpinner.Circle">
+        <item name="LoadingSpinner_Style">Circle</item>
+        <item name="android:tint">@color/idenfyMainColorV2</item>
+    </style>
+
+</resources>
